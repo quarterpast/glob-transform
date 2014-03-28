@@ -1,6 +1,6 @@
 {
   "name": "glob-transform",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "filter (browserify) transforms by globs",
   "main": "index.js",
   "scripts": {
