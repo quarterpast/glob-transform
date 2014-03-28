@@ -1,0 +1,32 @@
+{
+  "name": "glob-transform",
+  "version": "0.0.0",
+  "description": "filter (browserify) transforms by globs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/quarterto/glob-transform.git"
+  },
+  "keywords": [
+    "browserify",
+    "browserify-plugin",
+    "browserify-transform",
+    "stream",
+    "glob",
+    "minimatch",
+    "transform"
+  ],
+  "author": "Matt Brennan <mwrbrennan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quarterto/glob-transform/issues"
+  },
+  "homepage": "https://github.com/quarterto/glob-transform",
+  "dependencies": {
+    "minimatch": "^0.2.14",
+    "filter-transform": "0.0.0"
+  }
+}
